@@ -219,5 +219,6 @@ For questions or issues:
 
 ---
 
+Beny
 **CertiGenie** - Making certificate generation smart, simple, and verifiable! 🎓✨
 Rara
