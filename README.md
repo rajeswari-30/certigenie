@@ -220,3 +220,4 @@ For questions or issues:
 ---
 
 **CertiGenie** - Making certificate generation smart, simple, and verifiable! 🎓✨
+Rara
